@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @bthwrlds
-- 🌱 I’m currently learning Javascript
+Hi, I’m @bthwrlds 🪱
+
+I am interested in accessible frontend development.
+
 
 <!---
 bthwrlds/bthwrlds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
