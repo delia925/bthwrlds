@@ -1,6 +1,6 @@
-Hi, I’m @bthwrlds 🪱
+Hi, I’m @bdelia925 🪱
 
-I am interested in accessible frontend development.
+I am interested in accessible frontend development. This is my work company account.
 
 
 <!---
